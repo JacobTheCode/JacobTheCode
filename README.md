@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JacobTheCode
-- 👀 I’m interested in coding in html
-- 🌱 I’m currently learning how to use html in VS code
-
+- 👀 I’m interested in coding with react java html and css
+- 🌱 I’m currently learning how to use react for my project.
